@@ -1,0 +1,14 @@
+.comment-avatar img{
+    height: 70px;
+    width: 70px;
+}
+.children .comment-avatar img{
+    height: 50px;
+    width: 50px;
+}
+.ei-arrow_back{
+    margin-right: 3px;
+}
+.blog-sidebar-list-item{
+    list-style: none;
+}

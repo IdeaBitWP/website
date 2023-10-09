@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Plugin Archive - ideabit</title>
+	<atom:link href="/plugin/feed/" rel="self" type="application/rss+xml" />
+	<link>/plugin/</link>
+	<description></description>
+	<lastBuildDate>Sat, 07 Oct 2023 11:28:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/fav.png</url>
+	<title>Plugin Archive - ideabit</title>
+	<link>/plugin/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Multi-Currency For GravityForms</title>
+		<link>/plugin/multi-currency-for-gravityforms/</link>
+		
+		<dc:creator><![CDATA[hemantjodhani]]></dc:creator>
+		<pubDate>Wed, 27 Sep 2023 06:11:23 +0000</pubDate>
+				<category><![CDATA[WORDPRESS]]></category>
+		<guid isPermaLink="false">http://localhost:10018/?post_type=plugin&#038;p=96</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/plugin/multi-currency-for-gravityforms/">Multi-Currency For GravityForms</a> appeared first on <a rel="nofollow" href="/">ideabit</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/plugin/multi-currency-for-gravityforms/">Multi-Currency For GravityForms</a> appeared first on <a rel="nofollow" href="/">ideabit</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
